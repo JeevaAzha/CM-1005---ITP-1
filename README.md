@@ -30,3 +30,23 @@ It demonstrates fundamental game development concepts such as physics, collision
    ```bash
    git clone git@github.com:JeevaAzha/CM1005-Finals.git
    cd CM1005-Finals
+2. Open the game
+
+Simply open index.html in a modern web browser.
+
+No installation required.
+
+📌 Notes
+
+This project was built for CM1005 (Introduction to Programming I) coursework.
+
+It highlights fundamental programming and game development concepts using p5.js.
+
+All audio and image assets are included in the /assets folder.
+
+👨‍💻 Author
+
+Azhagu Jeevanantham
+
+📧 azhagjeeva@gmail.com
+   
